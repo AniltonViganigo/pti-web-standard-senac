@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(2, 2, 2);
+}
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(158, 132, 158);
+}
+
+.imagem img{
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.cursos img{
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    border-radius: 60px;
+    border-style: solid ;
+    margin-left: 50px;
+}
+
+.cursos p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(158, 132, 158);
+}
+
+.cursos li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(158, 132, 158);
+}
+
+.dados_pessoais{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(158,132,158);
+}
+
+.formacao_academica{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(158,132,158);
+}
+
+.experiencia_profissional{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(158,132,158);
+}
